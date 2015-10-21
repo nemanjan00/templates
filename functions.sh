@@ -1,4 +1,4 @@
 template(){
-	unzip ~/templates/templates/$@/$@.zip
+	cp -r ~/templates/templates/$@/content/* ./
 }
 

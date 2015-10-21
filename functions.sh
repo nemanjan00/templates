@@ -1,0 +1,4 @@
+template(){
+	unzip ~/templates/$@.zip
+}
+

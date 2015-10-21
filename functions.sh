@@ -1,4 +1,4 @@
 template(){
-	unzip ~/templates/$@.zip
+	unzip ~/templates/templates/$@/$@.zip
 }
 

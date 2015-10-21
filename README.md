@@ -10,3 +10,11 @@ git clone https://github.com/nemanjan00/templates.git
 echo "source ~/templates/functions.sh" >> ~/.bashrc
 source ~/templates/functions.sh
 ```
+
+## Update
+
+```bash
+cd ~/templates
+git pull
+source ./functions.sh
+```

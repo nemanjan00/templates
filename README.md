@@ -14,7 +14,5 @@ source ~/templates/functions.sh
 ## Update
 
 ```bash
-cd ~/templates
-git pull
-source ./functions.sh
+template-update
 ```
